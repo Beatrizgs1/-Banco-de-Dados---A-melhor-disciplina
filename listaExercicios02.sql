@@ -11,3 +11,8 @@ BEGIN
 END //
 
 DELIMITER ;
+
+
+--2.Livros por Categoria
+CALL sp_ListarAutores();
+
